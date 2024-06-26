@@ -38,7 +38,7 @@ export const Contacto = () => {
           </a> */}
           <div className="d-flex justify-content-center mb-5">
           <a href="https://www.instagram.com/eltinto_cafebar/?igshid=OGQ5ZDc2ODk2ZA%3D%3D" target="_blank" rel="noopener noreferrer" className="btn-insta">
-            <FaInstagram /> Instagram
+            <FaInstagram className='m-2'/> Instagram
           </a>
         </div>
           {/* <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="btn btn-primary mx-2">

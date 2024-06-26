@@ -70,12 +70,13 @@
   transition: background-color 0.3s, transform 0.3s ease-in-out;
   /* transition: background-color 0.3s ease; */
   background-image: linear-gradient(to top right, #f9ce34, #ee2a7b, #6228d7);
+  box-shadow: 4px 8px 5px rgba(0, 0, 0, 0.2);
   border: none;
   font-size: 1.2rem;
 }
 .btn-insta:hover {
   background-image: linear-gradient(to top right, #f9ce34, #ee2a7b, #6228d7);
-  transform: scale(1.05);
+  transform: scale(1.15);
   color: #ffffff;
   text-decoration: none;
 }
